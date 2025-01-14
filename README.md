@@ -18,4 +18,4 @@ To use the script, follow these steps:
 git clone https://github.com/harindujayakody/remove-duplicates-from-text-file.git
 cd remove-duplicates-from-text-file
 
-python remove_duplicates.py
+## Installation
